@@ -1,5 +1,5 @@
 <h1 align="center">
-  🇮🇳 ᴛᴜsʜᴀʀ ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
+  🇮🇳 Vishal ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
@@ -12,7 +12,7 @@
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
-- **`/tushar`**:  📁 upload txt file.
+- **`/VK`**:  📁 upload txt file.
 - **`/stop`**: 🛑 stop ongoing process.
 - **`/restart`**: 🔮 restart the bot.
 - **`/cookies`**: 🍪 upload cookies file.
