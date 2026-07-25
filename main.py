@@ -788,7 +788,7 @@ async def upload(bot: Client, m: Message):
             except Exception as e:
                 await m.reply_text(f'‼️𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗙𝗮𝗶𝗹𝗲𝗱‼️\n\n'
                                    f'📝𝗡𝗮𝗺𝗲 » `{name}`\n\n'
-                                   f'🔗𝗨𝗿𝗹 » <a href="{url}">__**Click Here to See Link**__</a>`')
+                                   f'🔗𝗨𝗿𝗹 » <a href="{url}">__**NA**__</a>`')
                                    
                 #count += 1
                 #failed_count += 1
@@ -798,7 +798,7 @@ async def upload(bot: Client, m: Message):
     except Exception as e:
         await m.reply_text(e)
     #await m.reply_text("**🥳𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗗𝗼𝗻𝗲🥳**")
-    await m.reply_text(f"`✨𝗕𝗮𝘁𝗰𝗵 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆!🎉\n\n"                  
+    await m.reply_text(f"`✨𝗕𝗮𝘁𝗰𝗵 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆!🎉\n\n"                  
     await m.reply_text(f"<pre><code>📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ➤『{raw_text3}』</code></pre>") 
     
 bot.run()
