@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @DOCTOR_JB
+# Don't Remove Credit Tg - @VK_0786BOT
 
 import os
 import time
